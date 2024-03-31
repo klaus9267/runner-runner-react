@@ -4,7 +4,7 @@
 <p>사용기술 : react, styled-component</p>
 <p>배열로 데이터를 관리하며 할 일의 crud가 가능합니다.</p> 
 <p>vercel : https://todo-react-ten-mu.vercel.app/</p> 
-![image](https://github.com/klaus9267/todo-react/assets/90795904/4cf1539e-b307-4261-97a6-71eff86b0fb6)
 
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/eb6198e2-028a-4222-b698-4cd8e1a5233c/efbc22ed-1ed7-4bd2-b47d-566ab3b0894d/Untitled.png)
 
 
